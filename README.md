@@ -51,4 +51,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Para mais informações ou dúvidas, entre em contato:
 - Email: rafaelrigo2006@gmail.com
-- GitHub: https://github.com/seu-usuario
+- GitHub: https://github.com/salvadorcraft
